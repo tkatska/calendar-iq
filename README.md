@@ -1,6 +1,6 @@
 # calendar-iq
 
-To initiate calendar from calendar.js
+Initiate calendar from calendar.js
 
 main.js contains all the logic for the calendar
 
